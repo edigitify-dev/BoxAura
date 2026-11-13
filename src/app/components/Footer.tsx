@@ -196,7 +196,7 @@ export default function Footer() {
           className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4"
         >
           <p className="text-[10px] uppercase tracking-[0.15em] text-stone-400 font-light text-center md:text-left">
-            &copy; {new Date().getFullYear()} BoxAura. All rights reserved. <span className="hidden md:inline">|</span> <br className="md:hidden" /> Developed By <a href="https://edigitify.in">Edigitify</a>
+            &copy; {new Date().getFullYear()} BoxAura. All rights reserved.
           </p>
           <p className="text-[10px] uppercase tracking-[0.15em] text-stone-400 font-light text-center md:text-right">
             Crafted with passion in India
